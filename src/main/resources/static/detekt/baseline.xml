@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>MaxLineLength:CommonControllerAdvice.kt$CommonControllerAdvice$return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(ExceptionResponse(ex.constraintViolations.joinToString(",") { it.message }))</ID>
+    <ID>MaxLineLength:IpAddressListValidator.kt$IpAddressListValidator$.</ID>
+    <ID>SpreadOperator:RocheApplication.kt$(*args)</ID>
+  </CurrentIssues>
+</SmellBaseline>
